@@ -25,7 +25,7 @@ Comprender los conceptos fundamentales detrás de los lenguajes de programación
 
 ## Estructura del repositorio
 
-/practicas
+/practicas  
 /teorias  
 /resumenes   
 
